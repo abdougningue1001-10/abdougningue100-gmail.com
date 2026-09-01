@@ -1,0 +1,6 @@
+{
+  "name": "Gningue Empire",
+  "description": "Plateforme e-commerce hybride mondiale & africaine (B2B Gros, B2C Détail, Produits & Services Digitaux) avec IA, multi-devises et paiements locaux.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
